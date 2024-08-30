@@ -1,0 +1,11 @@
+C:\Users\Darwi\Desktop\Proyecto Final\BackEnd\API\Domine\bin\Debug\net8.0\Domine.deps.json
+C:\Users\Darwi\Desktop\Proyecto Final\BackEnd\API\Domine\bin\Debug\net8.0\Domine.dll
+C:\Users\Darwi\Desktop\Proyecto Final\BackEnd\API\Domine\bin\Debug\net8.0\Domine.pdb
+C:\Users\Darwi\Desktop\Proyecto Final\BackEnd\API\Domine\obj\Debug\net8.0\Domine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darwi\Desktop\Proyecto Final\BackEnd\API\Domine\obj\Debug\net8.0\Domine.AssemblyInfoInputs.cache
+C:\Users\Darwi\Desktop\Proyecto Final\BackEnd\API\Domine\obj\Debug\net8.0\Domine.AssemblyInfo.cs
+C:\Users\Darwi\Desktop\Proyecto Final\BackEnd\API\Domine\obj\Debug\net8.0\Domine.csproj.CoreCompileInputs.cache
+C:\Users\Darwi\Desktop\Proyecto Final\BackEnd\API\Domine\obj\Debug\net8.0\Domine.dll
+C:\Users\Darwi\Desktop\Proyecto Final\BackEnd\API\Domine\obj\Debug\net8.0\refint\Domine.dll
+C:\Users\Darwi\Desktop\Proyecto Final\BackEnd\API\Domine\obj\Debug\net8.0\Domine.pdb
+C:\Users\Darwi\Desktop\Proyecto Final\BackEnd\API\Domine\obj\Debug\net8.0\ref\Domine.dll
